@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Brush Script MT", cursive;
+}
+
+h3 {
+  font-family: "Courier New", monospace;
+}
+
+img {
+  border: 15px soild black;
+  width: 600%;
+  max-width: 100%;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+}
